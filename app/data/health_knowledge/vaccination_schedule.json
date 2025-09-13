@@ -1,0 +1,137 @@
+{
+  "vaccination_schedules": [
+    {
+      "vaccine": "COVID-19 Vaccine",
+      "age_groups": [
+        {
+          "age": "18+ years",
+          "schedule": "Two doses 4-12 weeks apart, boosters as recommended",
+          "doses": 2,
+          "interval_days": 28
+        },
+        {
+          "age": "12-17 years",
+          "schedule": "Two doses 3-8 weeks apart",
+          "doses": 2,
+          "interval_days": 21
+        }
+      ],
+      "importance": "Protects against severe COVID-19, hospitalization, and death"
+    },
+    {
+      "vaccine": "Hepatitis B",
+      "age_groups": [
+        {
+          "age": "Birth",
+          "schedule": "At birth, 1-2 months, 6-18 months",
+          "doses": 3,
+          "interval_days": 30
+        },
+        {
+          "age": "Adults",
+          "schedule": "Three doses over 6 months",
+          "doses": 3,
+          "interval_days": 30
+        }
+      ],
+      "importance": "Prevents hepatitis B infection and liver disease"
+    },
+    {
+      "vaccine": "BCG (Tuberculosis)",
+      "age_groups": [
+        {
+          "age": "Birth",
+          "schedule": "Single dose at birth or as early as possible",
+          "doses": 1,
+          "interval_days": 0
+        }
+      ],
+      "importance": "Protects against severe forms of tuberculosis in children"
+    },
+    {
+      "vaccine": "DPT (Diphtheria, Pertussis, Tetanus)",
+      "age_groups": [
+        {
+          "age": "6 weeks to 6 months",
+          "schedule": "Three doses at 6, 10, and 14 weeks",
+          "doses": 3,
+          "interval_days": 28
+        },
+        {
+          "age": "Booster doses",
+          "schedule": "At 16-24 months, 4-6 years, 10-16 years",
+          "doses": 3,
+          "interval_days": 365
+        }
+      ],
+      "importance": "Protects against diphtheria, whooping cough, and tetanus"
+    },
+    {
+      "vaccine": "Polio (OPV/IPV)",
+      "age_groups": [
+        {
+          "age": "6 weeks to 14 weeks",
+          "schedule": "Three doses at 6, 10, and 14 weeks",
+          "doses": 3,
+          "interval_days": 28
+        },
+        {
+          "age": "Booster",
+          "schedule": "At 16-24 months",
+          "doses": 1,
+          "interval_days": 365
+        }
+      ],
+      "importance": "Prevents polio and paralysis"
+    },
+    {
+      "vaccine": "Measles",
+      "age_groups": [
+        {
+          "age": "9-12 months",
+          "schedule": "First dose at 9-12 months, second dose at 16-24 months",
+          "doses": 2,
+          "interval_days": 120
+        }
+      ],
+      "importance": "Protects against measles and its complications"
+    },
+    {
+      "vaccine": "Influenza (Flu)",
+      "age_groups": [
+        {
+          "age": "6+ months",
+          "schedule": "Annual vaccination",
+          "doses": 1,
+          "interval_days": 365
+        }
+      ],
+      "importance": "Reduces risk of seasonal influenza"
+    },
+    {
+      "vaccine": "HPV (Human Papillomavirus)",
+      "age_groups": [
+        {
+          "age": "9-14 years",
+          "schedule": "Two doses 6 months apart",
+          "doses": 2,
+          "interval_days": 180
+        },
+        {
+          "age": "15+ years",
+          "schedule": "Three doses over 6 months",
+          "doses": 3,
+          "interval_days": 60
+        }
+      ],
+      "importance": "Prevents cervical cancer and other HPV-related cancers"
+    }
+  ],
+  "general_guidelines": [
+    "Consult with healthcare providers for personalized vaccination schedules",
+    "Maintain vaccination records",
+    "Report adverse reactions to healthcare providers",
+    "Follow national immunization program guidelines",
+    "Catch up on missed vaccinations as recommended"
+  ]
+}

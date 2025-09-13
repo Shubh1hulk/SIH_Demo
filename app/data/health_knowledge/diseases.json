@@ -1,0 +1,92 @@
+{
+  "diseases": [
+    {
+      "name": "COVID-19",
+      "description": "Coronavirus disease 2019 (COVID-19) is an infectious disease caused by the SARS-CoV-2 virus.",
+      "symptoms": ["fever", "cough", "fatigue", "loss of taste or smell", "difficulty breathing", "body aches"],
+      "prevention": [
+        "Get vaccinated",
+        "Wear masks in crowded places",
+        "Maintain social distancing",
+        "Practice hand hygiene",
+        "Avoid touching face"
+      ],
+      "treatment": "Supportive care, antiviral medications for severe cases, consult healthcare provider",
+      "severity": "moderate",
+      "icd_code": "U07.1"
+    },
+    {
+      "name": "Malaria",
+      "description": "Malaria is a mosquito-borne infectious disease that affects humans and other animals.",
+      "symptoms": ["fever", "chills", "sweating", "headache", "nausea", "vomiting", "fatigue"],
+      "prevention": [
+        "Use insecticide-treated bed nets",
+        "Apply mosquito repellent",
+        "Eliminate standing water",
+        "Take antimalarial medications when traveling"
+      ],
+      "treatment": "Antimalarial medications as prescribed by healthcare provider",
+      "severity": "high",
+      "icd_code": "B50-B54"
+    },
+    {
+      "name": "Dengue Fever",
+      "description": "Dengue is a viral infection transmitted to humans through the bite of infected Aedes mosquitoes.",
+      "symptoms": ["high fever", "severe headache", "eye pain", "muscle aches", "skin rash", "nausea"],
+      "prevention": [
+        "Control mosquito breeding",
+        "Use mosquito repellents",
+        "Wear long-sleeved clothing",
+        "Remove standing water"
+      ],
+      "treatment": "Supportive care, pain relievers (avoid aspirin), increased fluid intake",
+      "severity": "moderate",
+      "icd_code": "A90-A91"
+    },
+    {
+      "name": "Tuberculosis",
+      "description": "Tuberculosis (TB) is a bacterial infection that mainly affects the lungs but can affect other parts of the body.",
+      "symptoms": ["persistent cough", "coughing up blood", "chest pain", "weight loss", "fever", "night sweats"],
+      "prevention": [
+        "BCG vaccination",
+        "Good ventilation",
+        "Avoid close contact with TB patients",
+        "Maintain good nutrition"
+      ],
+      "treatment": "Antibiotics for 6-9 months as prescribed, directly observed treatment",
+      "severity": "high",
+      "icd_code": "A15-A19"
+    },
+    {
+      "name": "Diabetes Type 2",
+      "description": "Type 2 diabetes is a chronic condition that affects the way your body metabolizes sugar (glucose).",
+      "symptoms": ["increased thirst", "frequent urination", "hunger", "fatigue", "blurred vision", "slow healing"],
+      "prevention": [
+        "Maintain healthy weight",
+        "Regular physical activity",
+        "Healthy diet",
+        "Limit processed foods",
+        "Regular health screenings"
+      ],
+      "treatment": "Lifestyle changes, medications as prescribed, blood sugar monitoring",
+      "severity": "moderate",
+      "icd_code": "E11"
+    },
+    {
+      "name": "Hypertension",
+      "description": "High blood pressure is a common condition in which the long-term force of blood against artery walls is high enough to cause health problems.",
+      "symptoms": ["often no symptoms", "headaches", "dizziness", "chest pain", "breathing difficulty"],
+      "prevention": [
+        "Regular exercise",
+        "Healthy diet low in sodium",
+        "Maintain healthy weight",
+        "Limit alcohol",
+        "Quit smoking",
+        "Manage stress"
+      ],
+      "treatment": "Lifestyle modifications, antihypertensive medications as prescribed",
+      "severity": "moderate",
+      "icd_code": "I10-I15"
+    }
+  ]
+}
